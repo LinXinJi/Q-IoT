@@ -1,0 +1,13 @@
+[project]
+name = "q-iot"
+version = "0.1.0"
+description = "毕业设计：量子物联网仿真与实验"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "jupyterlab>=4.3.8",
+    "matplotlib>=3.7.5",
+    "numpy>=1.24.4",
+    "scipy>=1.10.1",
+    "spinqit>=0.2.3",
+]
